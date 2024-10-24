@@ -1,6 +1,6 @@
 {
   "name": "react-native-reanimated-pagination",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "reanimated pagination",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
