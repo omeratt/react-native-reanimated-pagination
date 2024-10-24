@@ -4,6 +4,8 @@
     "paths": {
       "react-native-reanimated-pagination": ["./src/index"]
     },
+    "declaration": true,
+    "outDir": "./lib/typescript",
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
