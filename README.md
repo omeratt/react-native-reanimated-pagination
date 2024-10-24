@@ -8,24 +8,9 @@ designed for seamless navigation through carousels or multi-page content. <br/>
 Whether you're working on a small-scale project or a complex application,<br/>
 this component brings flexibility, simplicity, and style to your pagination needs.
 
-<div style="display: flex; justify-content: space-around; flex-direction: row">
-
-  <div style="text-align: center;">
-    <h4>FadeIn Mode</h4>
-    <img src="./readme_assets/FadeIn.gif" alt="FadeIn Demo" style="height:400px;">
-  </div>
-
-  <div style="text-align: center;">
-    <h4>Slide Mode</h4>
-    <img src="./readme_assets/slide.gif" alt="Slide Demo" style="height:400px;">
-  </div>
-
-  <div style="text-align: center;">
-    <h4>Liquid Mode</h4>
-    <img src="./readme_assets/liquid.gif" alt="Liquid Demo" style="height:400px;">
-  </div>
-
-</div>
+| FadeIn Mode  | Slide Mode   | Liquid Mode   |
+| ------------ | ------------ | ------------- |
+| ![FadeIn Demo](./readme_assets/FadeIn.gif) | ![Slide Demo](./readme_assets/slide.gif) | ![Liquid Demo](./readme_assets/liquid.gif) |
 
 ## Features
 
