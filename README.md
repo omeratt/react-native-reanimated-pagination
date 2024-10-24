@@ -8,7 +8,7 @@ designed for seamless navigation through carousels or multi-page content. <br/>
 Whether you're working on a small-scale project or a complex application,<br/>
 this component brings flexibility, simplicity, and style to your pagination needs.
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; width:600px">
 
   <div style="text-align: center;">
     <h4>FadeIn Mode</h4>
@@ -125,7 +125,7 @@ The `ReanimatedPagination` component accepts the following props:
 | `activeDotColor`    | string (optional)                            | '#000'   | Color of the active dot.                                                 |
 | `inactiveDotColor`  | string (optional)                            | '#FFF'   | Color of the inactive dots.                                              |
 | `overrideDotsStyle` | object (optional)                            | {}       | Custom styles for the dots (e.g., size, shape).                          |
-| `spaces`            | number (optional)                            | DOTS_GAP | Space between the dots.                                                  |
+| `spaces`            | number (optional)                            | 8 | Space between the dots.                                                  |
 | `isRtl`             | boolean (optional)                           | false    | Set `true` to enable right-to-left (RTL) layout.                         |
 
 ## RTL Support – A Special Feature for Israeli Developers 🇮🇱
