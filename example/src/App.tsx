@@ -1,6 +1,6 @@
 import { StyleSheet, View } from 'react-native';
 import { useSharedValue } from 'react-native-reanimated';
-import ReanimatedPagination from 'react-native-reanimated-pagination';
+import { ReanimatedPagination } from 'react-native-reanimated-pagination';
 
 export default function App() {
   const activeIndex = useSharedValue(0);
