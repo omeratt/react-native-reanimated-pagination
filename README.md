@@ -17,12 +17,12 @@ this component brings flexibility, simplicity, and style to your pagination need
 
   <div style="text-align: center;">
     <h4>Slide Mode</h4>
-    <img src="./readme_assets/Slide.gif" alt="Slide Demo" style="height:400px;">
+    <img src="./readme_assets/slide.gif" alt="Slide Demo" style="height:400px;">
   </div>
 
   <div style="text-align: center;">
     <h4>Liquid Mode</h4>
-    <img src="./readme_assets/Liquid.gif" alt="Liquid Demo" style="height:400px;">
+    <img src="./readme_assets/liquid.gif" alt="Liquid Demo" style="height:400px;">
   </div>
 
 </div>
