@@ -131,6 +131,8 @@
     ],
     "rules": {
       "react/react-in-jsx-scope": "off",
+      "react/jsx-uses-react": "off",
+      "no-unused-vars": "warn",
       "prettier/prettier": [
         "error",
         {
@@ -182,5 +184,8 @@
   "create-react-native-library": {
     "type": "library",
     "version": "0.42.0"
+  },
+  "dependencies": {
+    "react-native-reanimated": "~3.10.1"
   }
 }

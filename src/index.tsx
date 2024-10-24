@@ -1,3 +1,4 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+import Pagination from './pagination/Pagination';
+
+const ReanimatedPagination = Pagination;
+export default ReanimatedPagination;
