@@ -8,7 +8,7 @@ designed for seamless navigation through carousels or multi-page content. <br/>
 Whether you're working on a small-scale project or a complex application,<br/>
 this component brings flexibility, simplicity, and style to your pagination needs.
 
-<div style="display: flex; justify-content: space-around; width:600px">
+<div style="display: flex; justify-content: space-around; flex-direction: row">
 
   <div style="text-align: center;">
     <h4>FadeIn Mode</h4>
