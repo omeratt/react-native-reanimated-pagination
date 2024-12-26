@@ -8,8 +8,8 @@ designed for seamless navigation through carousels or multi-page content. <br/>
 Whether you're working on a small-scale project or a complex application,<br/>
 this component brings flexibility, simplicity, and style to your pagination needs.
 
-| FadeIn Mode  | Slide Mode   | Liquid Mode   |
-| ------------ | ------------ | ------------- |
+| FadeIn Mode                                | Slide Mode                               | Liquid Mode                                |
+| ------------------------------------------ | ---------------------------------------- | ------------------------------------------ |
 | ![FadeIn Demo](./readme_assets/FadeIn.gif) | ![Slide Demo](./readme_assets/slide.gif) | ![Liquid Demo](./readme_assets/liquid.gif) |
 
 ## Features
@@ -49,7 +49,7 @@ import Animated, {
 import ImagesBackground from './ImagesBackground';
 import RenderItem from './RenderItem';
 
-import { ReanimatedPagination } from 'react-native-reanimated-pagination';
+import ReanimatedPagination from 'react-native-reanimated-pagination';
 
 const width = Dimensions.get('window').width;
 const ITEM_WIDTH = width;
@@ -110,7 +110,7 @@ The `ReanimatedPagination` component accepts the following props:
 | `activeDotColor`    | string (optional)                            | '#000'   | Color of the active dot.                                                 |
 | `inactiveDotColor`  | string (optional)                            | '#FFF'   | Color of the inactive dots.                                              |
 | `overrideDotsStyle` | object (optional)                            | {}       | Custom styles for the dots (e.g., size, shape).                          |
-| `spaces`            | number (optional)                            | 8 | Space between the dots.                                                  |
+| `spaces`            | number (optional)                            | 8        | Space between the dots.                                                  |
 | `isRtl`             | boolean (optional)                           | false    | Set `true` to enable right-to-left (RTL) layout.                         |
 
 ## RTL Support – A Special Feature for Israeli Developers 🇮🇱
