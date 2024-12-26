@@ -116,12 +116,7 @@
         0
       ],
       "subject-case": [
-        2,
-        "always",
-        [
-          "sentence-case",
-          "lower-case"
-        ]
+        0
       ]
     }
   },
