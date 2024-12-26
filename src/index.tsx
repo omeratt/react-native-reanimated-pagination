@@ -1,3 +1,3 @@
-import Pagination from './pagination/Pagination';
+import ReanimatedPagination from './ReanimatedPagination/ReanimatedPagination';
 
-export const ReanimatedPagination = Pagination;
+export default ReanimatedPagination;
