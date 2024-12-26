@@ -1,12 +1,10 @@
 import { StyleSheet, View } from 'react-native';
-import { useSharedValue } from 'react-native-reanimated';
-import { ReanimatedPagination } from 'react-native-reanimated-pagination';
+import ImageCarousel from './carousel/ImageCarousel';
 
 export default function App() {
-  const activeIndex = useSharedValue(0);
   return (
     <View style={styles.container}>
-      <ReanimatedPagination activeIndex={activeIndex} dotsNumber={5} />
+      <ImageCarousel />
     </View>
   );
 }
